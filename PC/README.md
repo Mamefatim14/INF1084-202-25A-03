@@ -1,3 +1,21 @@
+# Plan De Cours
+
+- [ ] [TECHNIQUES DES SYSTÈMES INFORMATIQUES](https://collegeboreal.ca/wp-content/uploads/2023/04/tsiq_2301.pdf)
+
+### Session d’automne – troisième étape – 14 semaines
+
+| Titre | Code | Heures/semaine | Cours préalables |
+|-|-|-|-|
+| Système de gestion de bases de données | INF1096 | 4 | INF1094 |
+| Développement d’applications | INF1083 | 3 | INF1093 |
+| Réseautique 3 | INF1097 | 4 | INF1091 |
+| Administration Windows | INF1084 | 4 | INF1092 |
+| Administration Linux | INF1085 | 4 | INF1092 |
+| Formation générale | GENxxxx | 3 | Aucun |
+| Total | | 22 |
+
+
+
 Of course. This is an excellent learning path for mastering Microsoft Active Directory fundamentals. Here is a detailed breakdown of how you would approach each module using actual Active Directory concepts and tools.
 
 The key to dealing with this path is to set up a **lab environment**. This is non-negotiable for the hands-on labs. A typical setup would involve:
