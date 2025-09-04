@@ -1,4 +1,4 @@
 # 300142072
 Siga
 🇸🇳
-< img src=images/magic jonhson.jpg width='50%' lengh='50%'>
+< img src=images/magicjonhson.jpg width='50%' lengh='50%'>
