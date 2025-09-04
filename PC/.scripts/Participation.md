@@ -1,4 +1,4 @@
-# Participation au 04-09-2025 19:25
+# Participation au 04-09-2025 19:27
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -40,5 +40,5 @@
 | 21 | [300151469](../300151469/README.md) :point_right: [300151469](https://github.com/300151469) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 22 | [300151825](../300151825/README.md) :point_right: [FeatFreedy](https://github.com/FeatFreedy) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 23 | [300152260](../300152260/README.md) :point_right: [300152260](https://github.com/300152260) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 24 | [300153476](../300153476/README.md) :point_right: [ramatoulayediallo-911](https://github.com/ramatoulayediallo-911) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
+| 24 | [300153476](../300153476/README.md) :point_right: [ramatoulayediallo-911](https://github.com/ramatoulayediallo-911) <image src='https://avatars0.githubusercontent.com/u/129418622?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 25 | [300153747](../300153747/README.md) :point_right: [madjou15](https://github.com/madjou15) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
