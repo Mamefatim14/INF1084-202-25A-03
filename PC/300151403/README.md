@@ -1,5 +1,5 @@
 #LIFEISGOOD
 :Guinea:
 
-<img src=images/téléchargement.jpg width= '50%' height= '50'>
+<img src=images/téléchargement.jpg width= '50%' height= '100'>
 </img>
