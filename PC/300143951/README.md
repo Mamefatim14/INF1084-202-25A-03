@@ -1,4 +1,5 @@
 # 300143951
 mon premier README BOREAL
 
-sakamoto.webp
+<img src=image/sakamoto.webp width!50%>
+ </img>
