@@ -1,2 +1,2 @@
 #LIFEISGOOD
-:guinea:
+😄
