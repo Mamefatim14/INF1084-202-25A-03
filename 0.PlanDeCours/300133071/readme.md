@@ -1,4 +1,4 @@
-# <p align="center"><img src="images/girl_feathers_bird_346114_1920x1080.jpg" alt="Images" width="200"/></p>
+# <p align="center"><img src="images/girl_feathers_bird_346114_1920x1080.jpg" alt="Images" width="450"/></p>
 # <h1 align="center">Nelson William ✨</h1>
 ## <h3 align="center">Sr. IT Systems Technician | Systems Administrator • Networks • Databases • Full-stack Developer | Passionate About Technology<br/><br/></h3>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonwilliamkeleko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keleko.nelson@gmail.com) 
