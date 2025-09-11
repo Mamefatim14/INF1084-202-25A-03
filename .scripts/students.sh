@@ -34,12 +34,12 @@ ETUDIANTS=(
 )
 
 IDS=(
-300133071
+nelsonwilliam237
 emeraudesantu
 300141625
 300141657
 nabilaouladbouih
-300141858
+karimcode24
 sigadiarra
 Anouarairn
 frank17art
