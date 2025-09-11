@@ -37,7 +37,7 @@ IDS=(
 nelsonwilliam237
 emeraudesantu
 300141625
-300141657
+leandre00126
 nabilaouladbouih
 karimcode24
 sigadiarra
@@ -59,10 +59,10 @@ isako29
 hakimsb
 sarahocine
 JustinSandy99
-300151469
+rabiabouhali
 300151556
 FeatFreedy
-300152260
+bekkai-mohibb
 ramatoulayediallo-911
 )
 
