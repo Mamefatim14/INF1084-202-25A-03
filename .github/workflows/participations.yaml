@@ -18,6 +18,11 @@ jobs:
           echo "Evaluating chapter 0.PlanDeCours Participation"
           cd 0.PlanDeCours
           bash .scripts/run.sh
+          ##
+          ## Evaluating manual githug commit/push
+          ## 
+          echo "Evaluating git commands Participation"
+          bash .scripts/run.sh
 
       - name: Commit files
         run: |
