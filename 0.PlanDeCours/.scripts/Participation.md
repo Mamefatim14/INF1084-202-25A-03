@@ -1,4 +1,4 @@
-# Participation au 18-09-2025 18:44
+# Participation au 18-09-2025 18:48
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -16,7 +16,7 @@
 
 |:hash:| Boréal :id:                | README.md    | images |
 |------|----------------------------|--------------|--------|
-| 0 | [300133071](../300133071/README.md) :point_right: [nelsonwilliam237](https://github.com/nelsonwilliam237) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
+| 0 | [300133071](../300133071/README.md) :point_right: [nelsonwilliam237](https://github.com/nelsonwilliam237) <image src='https://avatars0.githubusercontent.com/u/181301859?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 1 | [300141550](../300141550/README.md) :point_right: [emeraudesantu](https://github.com/emeraudesantu) <image src='https://avatars0.githubusercontent.com/u/211749528?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 2 | [300141625](../300141625/README.md) :point_right: [300141625](https://github.com/300141625) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 3 | [300141657](../300141657/README.md) :point_right: [leandre00126](https://github.com/leandre00126) <image src='https://avatars0.githubusercontent.com/u/194731088?s=460&v=4' width=20 height=20></image> | :x: | :x: |
@@ -27,7 +27,7 @@
 | 8 | [300144176](../300144176/README.md) :point_right: [awaworks](https://github.com/awaworks) <image src='https://avatars0.githubusercontent.com/u/223561186?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 9 | [300146418](../300146418/README.md) :point_right: [IkramSidhoum](https://github.com/IkramSidhoum) <image src='https://avatars0.githubusercontent.com/u/198275764?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 10 | [300146676](../300146676/README.md) :point_right: [300146676](https://github.com/300146676) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 11 | [300146721](../300146721/README.md) :point_right: [smailikh](https://github.com/smailikh) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
+| 11 | [300146721](../300146721/README.md) :point_right: [smailikh](https://github.com/smailikh) <image src='https://avatars0.githubusercontent.com/u/222739217?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 12 | [300147510](../300147510/README.md) :point_right: [ghikanotes](https://github.com/ghikanotes) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 13 | [300147816](../300147816/README.md) :point_right: [HananeZerrouki](https://github.com/HananeZerrouki) <image src='https://avatars0.githubusercontent.com/u/230452383?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 14 | [300148094](../300148094/README.md) :point_right: [ouailg28](https://github.com/ouailg28) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
