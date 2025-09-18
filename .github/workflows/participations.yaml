@@ -18,6 +18,7 @@ jobs:
           echo "Evaluating chapter 0.PlanDeCours Participation"
           cd 0.PlanDeCours
           bash .scripts/run.sh
+          cd ..
           ##
           ## Evaluating manual githug commit/push
           ## 
