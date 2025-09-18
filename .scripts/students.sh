@@ -8,7 +8,6 @@ ETUDIANTS=(
 300141716
 300141858
 300142072
-300142542
 300143951
 300144176
 300146418
@@ -29,6 +28,7 @@ ETUDIANTS=(
 300151469
 300151556
 300151825
+300151863
 300152260
 300153476
 )
@@ -41,7 +41,6 @@ leandre00126
 nabilaouladbouih
 karimcode24
 sigadiarra
-Anouarairn
 frank17art
 awaworks
 IkramSidhoum
@@ -62,6 +61,7 @@ JustinSandy99
 rabiabouhali
 Kahinazerkani
 FeatFreedy
+300151863
 bekkai-mohibb
 ramatoulayediallo-911
 )
@@ -74,7 +74,6 @@ AVATARS=(
 125617838
 583231
 230452797
-157492270
 205994994
 583231
 198275764
@@ -96,6 +95,7 @@ AVATARS=(
 583231
 195238262
 583231
+212179557
 129418622
 )
 
