@@ -30,8 +30,8 @@ echo "| :x:                | Projet inexistant             |"
 echo ""
 echo "## :a: Présence"
 echo ""
-echo "|:hash:| Boréal :id:                | :id:.md    | bypass |"
-echo "|------|----------------------------|------------|--------|"
+echo "|:hash:| Boréal :id:                | :id:.md    | :rocket: |"
+echo "|------|----------------------------|------------|----------|"
 
 i=0
 
@@ -43,7 +43,7 @@ do
    KO_WEB="| ${i} | [${id}](../${FILE}) :point_right: ${URL} | :heavy_check_mark: | :x: |"
    KO="| ${i} | [${id}](../${FILE}) :point_right: ${URL} | :x: |"
    if [ -f "$FILE" ]; then
-       if git log --format=fuller -- 300133071.md | grep Author | grep -q "noreply"; then
+       if git log --format=fuller -- ${FILE} | grep Author | grep -q "noreply"; then
            echo ${KO_WEB}
        else
            echo ${OK}
