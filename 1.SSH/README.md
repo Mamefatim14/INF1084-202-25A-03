@@ -8,3 +8,5 @@
 ## :b: Configurer votre clé privée
 
 - [ ] [Configurer git avec votre clé personnelle](https://github.com/CollegeBoreal/Tutoriels/tree/main/0.GIT#secret-configurer-git-clé-personnelle-documentation)
+
+## :ab: Créer un fichier dans ce répertoire `(1.SSH)` du nom :id:.md
