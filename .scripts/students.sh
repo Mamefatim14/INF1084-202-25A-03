@@ -36,7 +36,7 @@ ETUDIANTS=(
 IDS=(
 nelsonwilliam237
 emeraudesantu
-300141625
+Mamefatim14
 leandre00126
 nabilaouladbouih
 karimcode24
@@ -69,7 +69,7 @@ dialloramatoulayebah
 AVATARS=(
 181301859
 211749528
-583231
+188626020
 194731088
 125617838
 205304457
