@@ -7,4 +7,4 @@
 
 ## :b: Configurer votre clé privée
 
-- [ ] [Configurer git avec votre clé personnelle](https://github.com/CollegeBoreal/Tutoriels/tree/main/0.GIT#configurer-git-clé-personnelle-documentation)
+- [ ] [Configurer git avec votre clé personnelle](https://github.com/CollegeBoreal/Tutoriels/tree/main/0.GIT#secret-configurer-git-clé-personnelle-documentation)
