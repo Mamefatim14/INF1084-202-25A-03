@@ -40,7 +40,7 @@
 | 21 | [300151258](../300151258.md) :point_right: [hakimsb](https://github.com/hakimsb) <image src='https://avatars0.githubusercontent.com/u/231778604?s=460&v=4' width=20 height=20></image> | :x: |
 | 22 | [300151347](../300151347.md) :point_right: [sarahocine](https://github.com/sarahocine) <image src='https://avatars0.githubusercontent.com/u/207281891?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 23 | [300151403](../300151403.md) :point_right: [JustinSandy99](https://github.com/JustinSandy99) <image src='https://avatars0.githubusercontent.com/u/211593057?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 24 | [300151469](../300151469.md) :point_right: [rabiabouhali](https://github.com/rabiabouhali) <image src='https://avatars0.githubusercontent.com/u/212077526?s=460&v=4' width=20 height=20></image> | :x: |
+| 24 | [300151469](../300151469.md) :point_right: [33070733](https://github.com/33070733) <image src='https://avatars0.githubusercontent.com/u/212077526?s=460&v=4' width=20 height=20></image> | :x: |
 | 25 | [300151556](../300151556.md) :point_right: [Kahinazerkani](https://github.com/Kahinazerkani) <image src='https://avatars0.githubusercontent.com/u/231781132?s=460&v=4' width=20 height=20></image> | :x: |
 | 26 | [300151825](../300151825.md) :point_right: [FeatFreedy](https://github.com/FeatFreedy) <image src='https://avatars0.githubusercontent.com/u/195238262?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 27 | [300151863](../300151863.md) :point_right: [300151863](https://github.com/300151863) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: |
