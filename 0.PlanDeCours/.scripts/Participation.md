@@ -1,4 +1,4 @@
-# Participation au 18-09-2025 21:20
+# Participation au 18-09-2025 21:21
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -28,7 +28,7 @@
 | 9 | [300146418](../300146418/README.md) :point_right: [IkramSidhoum](https://github.com/IkramSidhoum) <image src='https://avatars0.githubusercontent.com/u/198275764?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 10 | [300146676](../300146676/README.md) :point_right: [harkatiaymen](https://github.com/harkatiaymen) <image src='https://avatars0.githubusercontent.com/u/211595997?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 11 | [300146721](../300146721/README.md) :point_right: [smailikh](https://github.com/smailikh) <image src='https://avatars0.githubusercontent.com/u/222739217?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
-| 12 | [300147510](../300147510/README.md) :point_right: [ghikanotes](https://github.com/ghikanotes) <image src='https://avatars0.githubusercontent.com/u/212286223?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
+| 12 | [300147510](../300147510/README.md) :point_right: [ghikanotes](https://github.com/ghikanotes) <image src='https://avatars0.githubusercontent.com/u/212286223?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 13 | [300147816](../300147816/README.md) :point_right: [HananeZerrouki](https://github.com/HananeZerrouki) <image src='https://avatars0.githubusercontent.com/u/230452383?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 14 | [300148094](../300148094/README.md) :point_right: [ouailg28](https://github.com/ouailg28) <image src='https://avatars0.githubusercontent.com/u/212054634?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 15 | [300148450](../300148450/README.md) :point_right: [adjaoud-git](https://github.com/adjaoud-git) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
