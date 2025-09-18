@@ -30,8 +30,8 @@ echo "| :x:                | Projet inexistant             |"
 echo ""
 echo "## :a: Présence"
 echo ""
-echo "|:hash:| Boréal :id:                | :id:.md    |"
-echo "|------|----------------------------|------------|"
+echo "|:hash:| Boréal :id:                | :id:.md    | bypass |"
+echo "|------|----------------------------|------------|--------|"
 
 i=0
 
@@ -39,10 +39,15 @@ for id in "${ETUDIANTS[@]}"
 do
    URL="[${IDS[${i}]}](https://github.com/${IDS[${i}]}) <image src='https://avatars0.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image>"
    FILE=${id}.md
-   OK="| ${i} | [${id}](../${FILE}) :point_right: ${URL} | :heavy_check_mark: | :x: |"
+   OK="| ${i} | [${id}](../${FILE}) :point_right: ${URL} | :heavy_check_mark: | :heavy_check_mark: |"
+   KO_WEB="| ${i} | [${id}](../${FILE}) :point_right: ${URL} | :heavy_check_mark: | :x: |"
    KO="| ${i} | [${id}](../${FILE}) :point_right: ${URL} | :x: |"
    if [ -f "$FILE" ]; then
-       echo ${OK}
+       if git log --format=fuller -- 300133071.md | grep Author | grep -q "noreply"; then
+           echo ${KO_WEB}
+       else
+           echo ${OK}
+       fi
    else
        echo ${KO}
    fi
