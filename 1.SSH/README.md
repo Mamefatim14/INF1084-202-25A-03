@@ -9,4 +9,10 @@
 
 - [ ] [Configurer git avec votre clé personnelle](https://github.com/CollegeBoreal/Tutoriels/tree/main/0.GIT#secret-configurer-git-clé-personnelle-documentation)
 
+## :o: Cloner de nouveau le cours 
+
+```sh
+git clone git@github.com/INT
+```
+
 ## :ab: Créer un fichier dans ce répertoire `(1.SSH)` du nom :id:.md
