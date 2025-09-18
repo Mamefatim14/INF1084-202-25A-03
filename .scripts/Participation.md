@@ -1,4 +1,4 @@
-# Participation au 18-09-2025 20:53
+# Participation au 18-09-2025 20:58
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -31,7 +31,7 @@
 | 12 | [300147510](../300147510.md) :point_right: [ghikanotes](https://github.com/ghikanotes) <image src='https://avatars0.githubusercontent.com/u/212286223?s=460&v=4' width=20 height=20></image> | :x: |
 | 13 | [300147816](../300147816.md) :point_right: [HananeZerrouki](https://github.com/HananeZerrouki) <image src='https://avatars0.githubusercontent.com/u/230452383?s=460&v=4' width=20 height=20></image> | :x: |
 | 14 | [300148094](../300148094.md) :point_right: [ouailg28](https://github.com/ouailg28) <image src='https://avatars0.githubusercontent.com/u/212054634?s=460&v=4' width=20 height=20></image> | :x: |
-| 15 | [300148450](../300148450.md) :point_right: [300148450](https://github.com/300148450) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: |
+| 15 | [300148450](../300148450.md) :point_right: [adjaoud-git](https://github.com/adjaoud-git) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: |
 | 16 | [300150195](../300150195.md) :point_right: [amelzourane](https://github.com/amelzourane) <image src='https://avatars0.githubusercontent.com/u/211596474?s=460&v=4' width=20 height=20></image> | :x: |
 | 17 | [300150416](../300150416.md) :point_right: [hachemsouyadi](https://github.com/hachemsouyadi) <image src='https://avatars0.githubusercontent.com/u/211596263?s=460&v=4' width=20 height=20></image> | :x: |
 | 18 | [300150433](../300150433.md) :point_right: [zakariadjellouli](https://github.com/zakariadjellouli) <image src='https://avatars0.githubusercontent.com/u/211743410?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
